@@ -1,0 +1,95 @@
+
+body{
+    background-color: rgb(96, 154, 209);
+    margin: 0px; 
+    }
+#nav {
+    height: 70px;
+    width:100%;
+    position: fixed;
+    box-shadow: 0 0 1px rgb(0, 65, 94 /20%);
+    background-color: #fff;
+   }
+
+#nav li{
+    
+    
+  
+    display: inline;
+    padding-right:20px;
+   
+
+ 
+
+}
+#nav a{
+    text-decoration: none;
+    
+    color: #387BAB;
+    
+    font-size: 14px;   
+    font-weight: 550;
+
+    
+    
+    font-family: "Gotham Rounded A", "Gotham Rounded B", Helvetica, Arial, sans-serif;
+}
+#nav li.logo {
+    
+   
+    padding-left: 104px;
+    padding-right: 638px;
+    
+   
+  
+    
+   
+
+}
+#nav a.op{
+    border:5px solid #387BAB;
+    background-color: #387BAB;
+    border-radius: 4px;
+    color: #fff;
+}
+#nav a:hover{
+    color: #2a5d81;
+}
+#nav a.op:hover{
+    color: #fff;
+    background-color: #2a5d81;
+    border-color: #2a5d81;
+}
+#nav a.home{
+    border-bottom: 2px solid rgb(197, 197, 197);
+    padding-bottom: 2px;
+    color: #2a5d81;
+    
+    
+}
+h1{
+    color: #FFFFFF;
+    margin-top:0px;
+    padding-top: 260px;
+    padding-left: 450px;
+    padding-bottom:0px;
+    font-size: 24px;
+}
+h2{
+    color: #FFFFFF;
+    
+    padding-top:0px;
+    padding-left: 150px;
+    font-size: 48px;
+    margin-top:0px;
+    padding-bottom:0px;
+    margin-bottom:0px;
+}
+h3{
+    color: #FFFFFF;
+    
+    padding-top:0px;
+    padding-left: 600px;
+    font-size: 48px;
+    margin-top:0px;
+}
