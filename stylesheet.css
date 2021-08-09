@@ -2,7 +2,9 @@
 body{
     background-color: rgb(96, 154, 209);
     margin: 0px; 
-    }
+    font-family: Gotham Rounded A, Gotham Rounded B, Helvetica, Arial, sans-serif;
+}
+    
 #nav {
     height: 70px;
     width:100%;
@@ -31,9 +33,8 @@ body{
     font-weight: 550;
 
     
-    
-    font-family: "Gotham Rounded A", "Gotham Rounded B", Helvetica, Arial, sans-serif;
 }
+    
 #nav li.logo {
     
    
